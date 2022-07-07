@@ -1,0 +1,22 @@
+<template>
+  <div>
+    <h1>About</h1>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "TechAboutInner",
+
+  data() {
+    return {};
+  },
+
+  mounted() {},
+
+  methods: {},
+};
+</script>
+
+<style lang="scss" scoped>
+</style>
